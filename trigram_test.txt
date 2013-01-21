@@ -1,0 +1,5 @@
+I-PER O I-MISC
+I-LOC I-ORG O
+* * I-PER
+* I-ORG O
+O I-PER STOP
